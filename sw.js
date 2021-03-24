@@ -9,7 +9,6 @@ const APP_SHELL = [
     // '/',
     'index.html',
     'css/style.css',
-    'img',
     'img/favicon.ico',
     'img/avatars/hulk.jpg',
     'img/avatars/spiderman.jpg',
